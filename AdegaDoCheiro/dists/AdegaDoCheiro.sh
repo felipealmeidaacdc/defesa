@@ -1,0 +1,6 @@
+#!/bin/bash
+clear
+
+echo starting...
+java -jar AdegaDoCheiro.jar
+echo finishing...
